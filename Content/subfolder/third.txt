@@ -1,0 +1,10 @@
+This is WriteFileSync and here is the Result : /n this is First file. 
+
+editing stuff  in First.txt to see changes in WriteFileSync, /n/n this is Second file.
+
+editing stuff  in Second.txt to see changes in WriteFileSync
+This is WriteFileSync and here is the Result : this is First file. 
+
+, this is Second file.
+
+
